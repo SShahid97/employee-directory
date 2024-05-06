@@ -92,7 +92,7 @@ const Drawer = styled(MuiDrawer, {
 
 function Layout() {
   const navigate = useNavigate();
-  const [open, setOpen] = React.useState(false);
+  const [open, setOpen] = React.useState(true);
   const path = useCurrentPath();
 
   const getCurrentPath = () => {

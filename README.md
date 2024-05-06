@@ -10,7 +10,7 @@ This project, titled Employee Directory, is developed as a code challenge assign
 - [x] Integration of Persist Store to retain employee-specific data, such as senior employees.
 - [x] Creation of additional screens/routes, including a dedicated screen for displaying senior employees and an employee details screen utilizing the getEmployee API to showcase individual employee details.
 - [x] Utilization of Jest, React Testing Library and Vitest for writing unit and integration Tests.
-- [x] This project demonstrates proficiency in React.js development, incorporating industry-standard tools and practices to deliver a functional and visually appealing dashboard application.
+- [x] This project demonstrates proficiency in React.js development, incorporating industry-standard tools and practices to deliver a functional and visually appealing employee directory application.
 
 ## Getting Started
 Follow these steps to clone the repository, install dependencies, and run the application locally.
@@ -39,6 +39,8 @@ Start the development server to run the application locally
 ```
 yarn dev
 ```
+This command will start the development server and now the application is up and running
+
 ### Running the tests
 Run the test cases by running the below command
 ```

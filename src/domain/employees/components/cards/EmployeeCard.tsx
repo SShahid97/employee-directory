@@ -6,7 +6,6 @@ import Avatar from "@mui/material/Avatar";
 import { CardActions, Divider, IconButton, Tooltip, Zoom } from "@mui/material";
 import {
   Call,
-  FavoriteBorder,
   MailOutline,
   Place,
   Visibility,
@@ -15,7 +14,8 @@ import {
 } from "@mui/icons-material";
 import CardContentBox from "./CardContentBox";
 import { useNavigate } from "react-router-dom";
-import FavoriteIcon from "@mui/icons-material/Favorite";
+import Diversity1Icon from '@mui/icons-material/Diversity1';
+import Diversity1OutlinedIcon from '@mui/icons-material/Diversity1Outlined';
 import EditIcon from "@mui/icons-material/Edit";
 import { useAppDispatch, useAppSelector } from "../../../../store/hooks";
 import {
@@ -148,7 +148,7 @@ function EmployeeCard({
               onClick={(e) => handleRemoveFromSeniors(e)}
             >
               <Tooltip TransitionComponent={Zoom} title="Remove from seniors">
-                <FavoriteIcon color="error" />
+                <Diversity1Icon color="error" />
               </Tooltip>
             </IconButton>
           ) : (
@@ -158,7 +158,7 @@ function EmployeeCard({
               color="success"
             >
               <Tooltip TransitionComponent={Zoom} title="Add to seniors">
-                <FavoriteBorder color="success" />
+                <Diversity1OutlinedIcon color="success" />
               </Tooltip>
             </IconButton>
           )}

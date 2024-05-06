@@ -1,23 +1,6 @@
 {
   "employees": [
     {
-      "firstName": "Seamus",
-      "lastName": "Vandervort",
-      "email": "your.email+fakedata50342@gmail.com",
-      "position": "Assistant Professor",
-      "department": "Business Management",
-      "phone": "0095214738",
-      "country": "Portugal",
-      "address": "136 Murazik Flats",
-      "gender": "Female",
-      "employeeCode": "53548",
-      "joiningDate": "2023-10-30",
-      "salary": "50000.00",
-      "createdAt": 1714885719892,
-      "updatedAt": 1714885719892,
-      "id": "f05a"
-    },
-    {
       "firstName": "Chaz",
       "lastName": "Hodkiewicz",
       "email": "your.email+fakedata16220@gmail.com",
@@ -50,6 +33,40 @@
       "salary": "78000",
       "createdAt": 1714920246669,
       "updatedAt": 1714920246669
+    },
+    {
+      "id": "8098",
+      "firstName": "Kathryne",
+      "lastName": "Shanahan",
+      "email": "your.email+fakedata41609@gmail.com",
+      "position": "Professor",
+      "department": "Law",
+      "phone": "247-261-9728",
+      "country": "India",
+      "address": "1731 Cruickshank Spurs",
+      "gender": "Male",
+      "employeeCode": "62314",
+      "joiningDate": "2025-03-02",
+      "salary": "70000",
+      "createdAt": 1714983359183,
+      "updatedAt": 1714983359183
+    },
+    {
+      "id": "a420",
+      "firstName": "Bernadine",
+      "lastName": "Barton",
+      "email": "your.email+fakedata46992@gmail.com",
+      "position": "Junior Assistant",
+      "department": "Examination",
+      "phone": "421-912-0111",
+      "country": "India",
+      "address": "9250 Toy Hollow",
+      "gender": "Male",
+      "employeeCode": "00141",
+      "joiningDate": "2023-05-10",
+      "salary": "30000",
+      "createdAt": 1714983408708,
+      "updatedAt": 1714983408708
     }
   ]
 }
