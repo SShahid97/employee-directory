@@ -1,0 +1,55 @@
+{
+  "employees": [
+    {
+      "firstName": "Seamus",
+      "lastName": "Vandervort",
+      "email": "your.email+fakedata50342@gmail.com",
+      "position": "Assistant Professor",
+      "department": "Business Management",
+      "phone": "0095214738",
+      "country": "Portugal",
+      "address": "136 Murazik Flats",
+      "gender": "Female",
+      "employeeCode": "53548",
+      "joiningDate": "2023-10-30",
+      "salary": "50000.00",
+      "createdAt": 1714885719892,
+      "updatedAt": 1714885719892,
+      "id": "f05a"
+    },
+    {
+      "firstName": "Chaz",
+      "lastName": "Hodkiewicz",
+      "email": "your.email+fakedata16220@gmail.com",
+      "position": "Assistant Professor",
+      "department": "Computer Science",
+      "phone": "655-898-6467",
+      "country": "India",
+      "address": "57668 Ova Fords",
+      "gender": "Male",
+      "employeeCode": "93168",
+      "joiningDate": "2020-01-13",
+      "salary": "40000",
+      "createdAt": 1714884697144,
+      "updatedAt": 1714974391867,
+      "id": "5284"
+    },
+    {
+      "id": "eab7",
+      "firstName": "Cindy",
+      "lastName": "Crist",
+      "email": "your.email+fakedata41716@gmail.com",
+      "position": "Lecturer",
+      "department": "Mathematics",
+      "phone": "873-821-2291",
+      "country": "India",
+      "address": "623 Legros Haven",
+      "gender": "Male",
+      "employeeCode": "15618-1490",
+      "joiningDate": "2023-08-12",
+      "salary": "78000",
+      "createdAt": 1714920246669,
+      "updatedAt": 1714920246669
+    }
+  ]
+}
